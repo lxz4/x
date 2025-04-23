@@ -19,3 +19,12 @@ python3 sherlock lxz2
 
 ![image](https://github.com/user-attachments/assets/86df5828-3655-41da-958e-f2da48b7344f)
  
+
+
+
+برضو في اداة osint ثانيه مثل OSINT Framework  
+مايحتاج لها شرح عشانها سهله كيف تنزلها ؟  مو لازم تقدر من المتصفح 
+صوره من الاداة  
+![image](https://github.com/user-attachments/assets/c679a99e-35ea-4842-8313-be6bb0e523df)
+
+ 
