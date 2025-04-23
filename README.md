@@ -29,9 +29,8 @@
 
 **شنو تسوي؟** تدور لك على اسم المستخدم بكل مواقع التواصل، مثل تويتر وإنستقرام ورديت وغيرها.
 
-![sherlock](https://github.com/user-attachments/assets/86df5828-3655-41da-958e-f2da48b7344f)
-
 ### شلون تستخدمها:
+![image](https://github.com/user-attachments/assets/466d1ff1-3da0-4069-944f-80ee9b707288)
 
 1. حمل الأداة من GitHub:
    [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
@@ -48,7 +47,8 @@
 
 **فكرته:** موقع يجمع كل أدوات الـ OSINT بمكان واحد.
 
-![osint-framework](https://github.com/user-attachments/assets/c679a99e-35ea-4842-8313-be6bb0e523df)
+![image](https://github.com/user-attachments/assets/ab5c1248-0fc3-487d-9dd8-c9b562d55ec3)
+
 
 تقدر تختار نوع البحث، مثل إيميل، صور، رقم، موقع، ويعطيك الأدوات المناسبة.
 
@@ -61,7 +61,8 @@
 
 **شنو يسوي؟** يفحص إذا إيميلك أو يوزرك تسرب من قبل في اختراقات.
 
-![hibp](https://github.com/user-attachments/assets/cd27cdb1-e335-40bd-b03b-591f6f27a526)
+![image](https://github.com/user-attachments/assets/efc0b18e-3028-40f4-bbd8-bae7de891a60)
+
 
 ### شلون تستخدمه:
 
@@ -74,5 +75,62 @@
 
 ---
 
+## 5. SpiderFoot — تجمع لك كل شي بروحها
 
+**فكرتها:** أداة تجمع لك معلومات من أكثر من 100 مصدر بدون لا تسوي شي! تدور لك عن دومينات، إيميلات، IPs، مستخدمين، كل شي تقريبًا.
+
+![image](https://github.com/user-attachments/assets/88952298-e668-4924-8efb-4ed2b6a67e4e)
+
+
+### وين تفيد؟
+إذا تبي تعرف كل شي عن موقع أو شخص، من غير ما تدخل كل أداة لحالها، هذي الأداة تسويها عنك أوتوماتيك.
+
+### شلون تستخدمها:
+
+- حملها من GitHub:
+  [https://github.com/smicallef/spiderfoot](https://github.com/smicallef/spiderfoot)
+
+- تشتغل من المتصفح، أو من التيرمنال إذا تحب الأوامر.
+
+- إذا شغلتها، راح تعبي كل شي عن الهدف قدامك: مثل تسريبات، دومينات مرتبطة، ثغرات، ومعلومات DNS.
+
+---
+
+## 6. Holehe — تأكد إذا الإيميل مسجل بمواقع
+
+**فكرتها:** تحط إيميل، وهي تدور لك وتشوف هل مستخدم في مواقع معروفة مثل تويتر، إنستقرام، فيسبوك وغيرها.
+
+![image](https://github.com/user-attachments/assets/f97cab0d-b41d-441d-91e9-bbefcdcbdd44)
+
+
+### شلون تستخدمها:
+
+1. حملها من GitHub:
+   [https://github.com/megadose/holehe](https://github.com/megadose/holehe)
+
+2. افتح التيرمنال واكتب:
+   ```bash
+   holehe example@example.com
+   ```
+   بتطلع لك المواقع اللي هذا الإيميل مسجل فيها.
+
+---
+
+## 7. EmailRep — تحليل الإيميلات
+
+**فكرتها:** تحط إيميل ويعطيك عنه معلومات إذا كان موثوق أو لا، وشنو الخدمات اللي مسجل فيها.
+
+![image](https://github.com/user-attachments/assets/e1d96b64-06cc-456f-b6df-a7ab91e78013)
+
+
+### شلون تستخدمها:
+
+1. ادخل الموقع:
+   [https://emailrep.io](https://emailrep.io)
+
+2. أو استخدم API في سكربت خاص فيك إذا تبي شي متقدم.
+
+---
+
+**إعداد:** lxz2
 
