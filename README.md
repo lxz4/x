@@ -10,10 +10,7 @@ Shodan هذي أداة رهيبة عشان تشوف الأجهزة المتصل�
 في ادواة حلوه لل osint مثل  Sherlock شنو تسوي؟
 تبحث عن اسم مستخدم (Username) وتشوف وين متسجل فيه مثل تويتر-انستقرام-ريديت وغيرها 
 شلون تستخدمها ؟ 
-git clone https://github.com/sherlock-project/sherlock
-cd sherlock
-python3 sherlock lxz2
-
+ https://github.com/sherlock-project/sherlock
  راح تطلع لك مثل 
 
 
