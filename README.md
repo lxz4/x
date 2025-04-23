@@ -2,7 +2,7 @@
 راح اتكلم عن ادواة ال osint - جمع المعلومات   
 Shodan هذي أداة رهيبة عشان تشوف الأجهزة المتصلة بالإنترنت. مثل السيرفرات والكاميرات وحتى الأجهزة الذكية. لو تبغى تشوف إذا فيه سيرفرات معينة متصلة أو كاميرات، تقدر تستخدمها.
 
-شلون تستخدمها؟ تدخل على الموقع https://www.shodan.io/   اذا تبي تبحث عن قواعد بيانات MySQL مفتوحة دون تأمين       port:3306 "mysql" "root" -password                       او مثلا قواعد بيانات مفتوحة product:"MongoDB" port:27017 -authentication   والخ الخ اذا مو عارف تستخدم  Shodan تقدر تدخل هنا https://www.shodan.io/search/examples 
+شلون تستخدمها؟ تدخل على الموقع https://www.shodan.io/   اذا تبي تبحث عن قواعد بيانات MySQL مفتوحة دون تأمين       (port:3306 "mysql" "root" -password)                        او مثلا قواعد بيانات مفتوحة (product:"MongoDB" port:27017 -authentication)   والخ الخ اذا مو عارف تستخدم  Shodan تقدر تدخل هنا https://www.shodan.io/search/examples 
 
 
 
